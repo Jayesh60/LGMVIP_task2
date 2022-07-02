@@ -45,7 +45,7 @@ function App() {
       </div>
       <hr />
       <div className="footer">
-        footer
+        
       </div>
     </div>
   );
